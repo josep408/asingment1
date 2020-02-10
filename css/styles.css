@@ -103,7 +103,7 @@ h1{
 #wrapper{
 	width: 1500 px;
 	margin: 0 auto;
-	background: #34af2b;
+	background: #b6ff9e;
 	border: 1px solid #fff;
 
 }
@@ -115,5 +115,13 @@ h1{
 
 .clear{
 	clear: both;
+}
+
+#sidebar{
+	float: right;
+	width: 350px;
+	padding: 15px 8px 8px 20px;
+	margin: 20px;
+	border: 1.5px solid #000;	
 }
 
