@@ -40,12 +40,16 @@ nav a:visited{
 	font-size: 2em;
 	transition: .9s;
 }
-#me, #welcometext{
+ #welcometext{
 	float: left;
 	text-align: left;
 	
 }
 
+#me {
+	float: left;
+	size: 300px;
+}
 
 footer{
 	font-family: "Gill Sans", "Gill Sans MT", "Myraid Pro", "DejaVu Sans Condensed", Arial, sans-serif;
@@ -97,9 +101,11 @@ h1{
 	margin-bottom: 0px;
 }
 #wrapper{
+	width: 1500 px;
 	margin: 0 auto;
 	background: #34af2b;
 	border: 1px solid #fff;
+	height: 3000 px;
 }
 
 .new1{
@@ -110,3 +116,4 @@ h1{
 .clear{
 	clear: both;
 }
+
